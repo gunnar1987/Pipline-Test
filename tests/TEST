@@ -3,6 +3,6 @@
 
 echo "First test succeeded"
 
-echo "Second test failed! (on purpose)"
-exit 1
+#echo "Second test failed! (on purpose)"
+#exit 1
 
