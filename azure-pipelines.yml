@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  Default: 'frodo'
+pool: MyPool
+
 
 steps:
 - script: echo Hello, world!
